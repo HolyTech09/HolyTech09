@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, welcome to my GitHub Profile 👋
 
+I am currently studying a degree in computer science at UANL.
+
+I love Philosophy
 <!--
 **HolyTech09/HolyTech09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
